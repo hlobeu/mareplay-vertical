@@ -37,7 +37,7 @@
 Mareplay/
 ├── LICOES.md          ✅ (8 linhas)
 ├── INDEX.md           ✅
-└── (sem README.md — pendente)
+└── (README.md ✅)
     (sem DOSSIE.md — criado agora)
 ```
 
@@ -60,7 +60,7 @@ Mareplay/
 
 ### Pendências imediatas
 - [ ] Criar repositório Git (se aplicável)
-- [ ] Criar README.md
+- [x] README.md criado
 - [ ] Definir stack técnica
 - [ ] Definir deploy no Swarm
 - [ ] Completar LICOES.md com lições reais
